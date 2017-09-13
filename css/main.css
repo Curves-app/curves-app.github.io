@@ -6,9 +6,11 @@
 }
 
 .jumbotron {
-  text-align: center;
-  background-color: transparent;
-  background-image: url(img/hp-background-image.png);
+	min-height: 500px; 
+  	background-color: transparent;
+  	background-image: url(../img/hp-background-image.png);
+  	background-size: cover;
+  	background-repeat: no-repeat;
 } 
 
 .hp-main-text {
